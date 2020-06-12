@@ -9,7 +9,7 @@ def initialize(title)
 end 
 
 def add_backer(backer)
-  @bakers << backer 
+  @backers << backer 
 end 
 
 
